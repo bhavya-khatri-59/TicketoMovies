@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TicketoMovies/static/css/main.5d4f08c2.css",
+    "main.js": "/TicketoMovies/static/js/main.64f552db.js",
+    "static/js/453.f746b0cc.chunk.js": "/TicketoMovies/static/js/453.f746b0cc.chunk.js",
+    "static/media/movie2.jpg": "/TicketoMovies/static/media/movie2.0b3c4b0cc58cfc625b1d.jpg",
+    "static/media/movie1.jpg": "/TicketoMovies/static/media/movie1.94df69d79596b0cd1fa7.jpg",
+    "static/media/movie1Ticket.jpg": "/TicketoMovies/static/media/movie1Ticket.574cb3043c13dac32350.jpg",
+    "static/media/movie3.jpg": "/TicketoMovies/static/media/movie3.231b6d2a055229537835.jpg",
+    "static/media/movie2Ticket.jpg": "/TicketoMovies/static/media/movie2Ticket.ce45cae73b77ca4b80aa.jpg",
+    "static/media/movie3Ticket.jpg": "/TicketoMovies/static/media/movie3Ticket.e0126d686798f1f48e6e.jpg",
+    "index.html": "/TicketoMovies/index.html",
+    "main.5d4f08c2.css.map": "/TicketoMovies/static/css/main.5d4f08c2.css.map",
+    "main.64f552db.js.map": "/TicketoMovies/static/js/main.64f552db.js.map",
+    "453.f746b0cc.chunk.js.map": "/TicketoMovies/static/js/453.f746b0cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d4f08c2.css",
+    "static/js/main.64f552db.js"
+  ]
+}
