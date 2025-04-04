@@ -1,0 +1,25 @@
+.leftbutton {
+    position: absolute;
+    left: 20px;
+    top: 210px;
+    transform: translateY(-50%);
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: black ;
+    color: yellow;
+    border: none;
+    border-radius: 50px;
+}
+  
+.rightbutton {
+    position: absolute;
+    right: 20px;
+    top: 210px;
+    transform: translateY(-50%);
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: black;
+    color: yellow;
+    border: none;
+    border-radius: 50px;
+}

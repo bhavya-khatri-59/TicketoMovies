@@ -1,0 +1,30 @@
+.left {
+    position: absolute;
+    top: 21px;
+    left: 60px;
+    transform: translateY(-50%);
+    color: black;
+    border: none;
+}
+  
+.right {
+    position: absolute;
+    top: 21px;
+    right: 200px;
+    transform: translateY(-50%);
+    color: black;
+    border: none;
+}
+
+.confirm {
+    position: absolute;
+    right: 100px;
+    top: 3px;
+    padding: 10px;
+    border: 0.5px solid lime;
+    border-radius: 5px;
+    background-color: rgb(53, 53, 53);
+    color: lime;
+    cursor: pointer;
+    font-weight: bold;
+}
